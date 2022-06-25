@@ -1,0 +1,1 @@
+# platzi-closures-scope
